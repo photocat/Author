@@ -580,11 +580,6 @@ footer h2 {
 
 
 @media (max-width: 1182px) {
-
-    .plan-conteiner {
-        background-color: #ccc;
-    }
-
     .contacts,
     .contact-form {
         float: none;
@@ -594,12 +589,6 @@ footer h2 {
 
     footer h2 {
         margin-bottom: 2rem;
-        margin-top: 1rem;
-    }
-
-    .social,
-    .copyrights {
-        text-align: center;
     }
 
     .contact-form textarea {
@@ -609,7 +598,7 @@ footer h2 {
 
     .contact-form input {
         display: block;
-        width: 100%;
+        width: 50%;
         text-align: left;
     }
 
@@ -625,12 +614,6 @@ footer h2 {
         margin-bottom: 4rem;
     }
 
-    .button-form {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-    }
     .plans {
         margin-bottom: 4rem;
     }
